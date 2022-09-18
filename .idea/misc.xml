@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC/Springmvc_01-quickstat" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMvc02_bean_load" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_02_bean_load" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_03_request_mapping" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_04_request_param" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVC_Dome1/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC_Dome1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_1_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc_01-quickstat/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_04_request_param/pom.xml" />
       </list>
     </option>
   </component>

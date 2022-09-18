@@ -7,11 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringMVCDome1" />
-        <module name="SpringMVC_Dome1" />
+        <module name="springmvc_02_bean_load" />
+        <module name="springmvc_01_quickstart" />
+        <module name="springmvc_03_request_mapping" />
+        <module name="springmvc_04_request_param" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringDome1" target="1.5" />
       <module name="SpringMVC" target="8" />
+      <module name="SpringMvc02_bean_load" target="1.5" />
+      <module name="Springmvc_01-quickstat" target="1.5" />
+      <module name="SpringMVC_1_quickstart" target="8" />
+      <module name="SpringMVC_Dome1" target="1.5" />
       <module name="SpringMVCDome1" target="8" />
     </bytecodeTargetLevel>
   </component>
