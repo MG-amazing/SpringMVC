@@ -6,15 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springmvc_09_result" />
+        <module name="springmvc_08_ssm_start" />
+        <module name="springmvc_11_page" />
+        <module name="springmvc_10_exception" />
+        <module name="springmvc_01_quickstart" />
+        <module name="springmvc_03_request_mapping" />
+        <module name="springmvc_06_rest" />
         <module name="springmvc_05_response" />
         <module name="springmvc_07_rest_case" />
         <module name="SpringMVCDome1" />
         <module name="springmvc_02_bean_load" />
-        <module name="springmvc_08_ssm_start" />
-        <module name="springmvc_01_quickstart" />
-        <module name="springmvc_03_request_mapping" />
+        <module name="springmvc_12_interceptor" />
         <module name="springmvc_04_request_param" />
-        <module name="springmvc_06_rest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +30,7 @@
       <module name="SpringMVC_1_quickstart" target="8" />
       <module name="SpringMVC_Dome1" target="1.5" />
       <module name="SpringMVCDome1" target="8" />
+      <module name="springmvcP_12_interceptor" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
